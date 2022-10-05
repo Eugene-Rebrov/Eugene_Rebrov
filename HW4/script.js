@@ -171,5 +171,5 @@
 // }else if(number1 === 1){
 //     alert(number + str1)
 // }else{
-//     alert(0 + str3)
+//     alert(number + str3)
 // }
